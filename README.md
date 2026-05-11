@@ -51,11 +51,9 @@ ServiceNow Help Desk Ticketing System
 <img width="1892" height="1015" alt="Screenshot 2026-05-06 232615" src="https://github.com/user-attachments/assets/4591d794-75b1-4955-b009-57add8747b2b" />
 
 
-4. From this same page. You are able to assign this ticket to a group (I created a helpdesk group) or assign to a specifc person. (Fred)
+4. From this same page. You are able to assign this ticket to a group (I created a helpdesk group) or assign to a specifc person. (Fred) From here you can resolve the ticket or submit it in the top right. For the Lab we will submit it and then resolve it. 
 
 <img width="1892" height="1015" alt="Screenshot 2026-05-06 232615" src="https://github.com/user-attachments/assets/c13accfe-48d2-41b1-8f7d-38cf0ca516fc" />
 
-
 <img width="1912" height="1021" alt="Screenshot 2026-05-06 232320" src="https://github.com/user-attachments/assets/e13adc25-b83a-4ea0-89bb-28e3b1b82dff" />
-
 
