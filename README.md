@@ -24,6 +24,7 @@ ServiceNow Help Desk Ticketing System
 (The incident you see is for what you ,as the user, has submitted. Not where a helpdesk employee work out of.)
 
 <img width="1919" height="980" alt="Screenshot 2026-05-06 223457" src="https://github.com/user-attachments/assets/71c687a1-9c0e-429e-ac26-8320a67dc1d8" />
+
 -----------------------------------------------
 
 1. Head over to the inceident tab and click on "Create new" to create a ticket. 
