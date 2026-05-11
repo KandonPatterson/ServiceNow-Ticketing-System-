@@ -11,8 +11,11 @@ ServiceNow Help Desk Ticketing System
 
 <img width="900" height="736" alt="Screenshot 2026-05-05 232448" src="https://github.com/user-attachments/assets/586d81c6-2795-4d42-923a-19cea753c277" />
 
+-------------------------------
+
 1. When you are in ServiceNow. Make your way to the tabs to the left and find the Self-Service tab.
 2. Click on Incident
+
 
 <img width="1919" height="964" alt="Screenshot 2026-05-06 223303" src="https://github.com/user-attachments/assets/d2a61276-ee44-4cc7-ab26-059285f1a300" />
 
