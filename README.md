@@ -19,6 +19,7 @@ ServiceNow Help Desk Ticketing System
 
 <img width="1919" height="964" alt="Screenshot 2026-05-06 223303" src="https://github.com/user-attachments/assets/d2a61276-ee44-4cc7-ab26-059285f1a300" />
 
+------------------------------------------
 
 (The incident you see is for what you as the user has submitted. Not where a help help employees work out of.)
 
