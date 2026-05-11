@@ -62,10 +62,17 @@ ServiceNow Help Desk Ticketing System
 <img width="1876" height="1021" alt="Screenshot 2026-05-06 232845" src="https://github.com/user-attachments/assets/defd4a0b-7d59-494c-b1fd-ce4f934e03db" />
 
 
+6. When ticket are worked on. You can leave work notes to document the lifecyle of the ticket between teams and users. Below you see the ticket being responded to both the team and user. 
 
+<img width="1804" height="613" alt="Screenshot 2026-05-07 001315" src="https://github.com/user-attachments/assets/d28ae2e8-8312-4702-9e73-7b74ee2ad362" />
 
+<img width="1869" height="529" alt="Screenshot 2026-05-07 001353" src="https://github.com/user-attachments/assets/c646f15b-c5c6-47f4-9594-dd3ec4c0067a" />
 
+7. When you resolve a ticket. It is very important to document well. There is never too much information. Record your findings and resolve the ticket. 
 
+<img width="1887" height="808" alt="Screenshot 2026-05-07 002335" src="https://github.com/user-attachments/assets/d727753d-7aaa-4489-b9ee-089261c9f3b8" />
 
+8. Congracts you have created a ticket, worked it, and resloved it.
 
+<img width="1868" height="797" alt="Screenshot 2026-05-07 002405" src="https://github.com/user-attachments/assets/47010e2e-df79-47bf-b67b-687629ce1a0c" />
 
