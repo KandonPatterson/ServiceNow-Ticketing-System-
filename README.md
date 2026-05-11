@@ -27,11 +27,14 @@ ServiceNow Help Desk Ticketing System
 
 -----------------------------------------------
 
-1. Head over to the inceident tab and click on "Create new" to create a ticket.
-   (Navigate the following tabs also. Assinged to me, open, and resolved for status of tickets)
+1. Head over to the inceident tab to create a ticket 
+ (Navigate the following tabs. Assinged to me, open, and resolved for status of tickets)
 
 <img width="1919" height="971" alt="Screenshot 2026-05-06 223753" src="https://github.com/user-attachments/assets/61bfc2ea-a627-4002-bb3a-303f508298ed" />
 
 <img width="1919" height="987" alt="Screenshot 2026-05-06 223821" src="https://github.com/user-attachments/assets/08b52e00-a9f4-49cf-8f48-6d96e5865d7d" />
 
+----------------------------------------------------
+
+1. Create 
 
