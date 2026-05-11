@@ -57,3 +57,15 @@ ServiceNow Help Desk Ticketing System
 
 <img width="1912" height="1021" alt="Screenshot 2026-05-06 232320" src="https://github.com/user-attachments/assets/e13adc25-b83a-4ea0-89bb-28e3b1b82dff" />
 
+5. When you submit the ticket, it will pop up in the active tickets tab. You are also able to find the ticket by its's Ticket number. (you are able to see who the caller was and who the ticket was assigned to.)
+
+<img width="1876" height="1021" alt="Screenshot 2026-05-06 232845" src="https://github.com/user-attachments/assets/defd4a0b-7d59-494c-b1fd-ce4f934e03db" />
+
+
+
+
+
+
+
+
+
