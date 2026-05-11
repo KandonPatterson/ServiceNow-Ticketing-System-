@@ -40,4 +40,12 @@ ServiceNow Help Desk Ticketing System
 
    <img width="1904" height="1018" alt="Screenshot 2026-05-06 223704" src="https://github.com/user-attachments/assets/3ecc27fa-4088-4ba5-a490-0b3bb38cf130" />
 
+2. Fill in the fields from what would be a incoming user request (Abe Lincoln for me in this example)
 
+<img width="1912" height="1016" alt="Screenshot 2026-05-06 223845" src="https://github.com/user-attachments/assets/3fb78b2a-53c4-4b0b-9868-5fcbeaa167bc" />
+
+<img width="1912" height="1021" alt="Screenshot 2026-05-06 232320" src="https://github.com/user-attachments/assets/69efb025-77e5-4d05-9ead-967c6dba387b" />
+
+3. Service Now has knowledge articles that also can be based on past issues that were solved. 
+
+<img width="1892" height="1015" alt="Screenshot 2026-05-06 232615" src="https://github.com/user-attachments/assets/4591d794-75b1-4955-b009-57add8747b2b" />
